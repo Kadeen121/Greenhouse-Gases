@@ -1,6 +1,6 @@
 # Greenhouse-Gases-and-Agriculture
 ## Introduction
-###Greenhouses are structures that are designed to provide a controlled environment for growing plants, often used in agriculture to extend the growing season or to cultivate plants that are not suited to the local climate. These structures are typically made of transparent materials such as glass or plastic, allowing sunlight to enter while trapping heat and moisture inside.
+### Greenhouses are structures that are designed to provide a controlled environment for growing plants, often used in agriculture to extend the growing season or to cultivate plants that are not suited to the local climate. These structures are typically made of transparent materials such as glass or plastic, allowing sunlight to enter while trapping heat and moisture inside.
 
 In agriculture, greenhouses are used to cultivate a wide range of crops, including vegetables, fruits, and flowers. They offer several advantages over traditional outdoor farming methods, such as increased yields, improved crop quality, and protection from pests and extreme weather conditions.
 
