@@ -4,4 +4,6 @@ Greenhouse gases issue has  plagued to our planet to warm the melt ice caps extr
 
 ## Use
 
-## 
+## Objective 
+* Explore total GHG emissions from 1990 to 2019 by country
+*
