@@ -1,9 +1,7 @@
-# Greenhouse-Gases-and-Agriculture
+# Greenhouse-Gases
 ## Introduction
-### Greenhouses are structures that are designed to provide a controlled environment for growing plants, often used in agriculture to extend the growing season or to cultivate plants that are not suited to the local climate. These structures are typically made of transparent materials such as glass or plastic, allowing sunlight to enter while trapping heat and moisture inside.
+Greenhouse gases issue has  plagued to our planet to warm the melt ice caps extreme weather events, such as heat waves, droughts, blizzards and rainstorms.  This has a devastating effect on the planet espcially the on the nations that are developing and underdeveloped as they do not have the resource to combat the effects from climate change which is caused by greenhouse gases. In this project explore greenhouse gas emmissions  from 1990 to 2018, what industries  are producing the most greenhouse gases and attempt to build a model which will help give us clues in lowering GHG in the future.  
 
-In agriculture, greenhouses are used to cultivate a wide range of crops, including vegetables, fruits, and flowers. They offer several advantages over traditional outdoor farming methods, such as increased yields, improved crop quality, and protection from pests and extreme weather conditions.
+## Use
 
-Greenhouses also allow for greater control over the growing conditions, including temperature, humidity, and lighting, which can be adjusted to optimize plant growth and maximize yields. This control also enables farmers to grow crops year-round, regardless of the outside weather conditions.
-
-Overall, greenhouses play an important role in modern agriculture, offering a sustainable and efficient way to produce crops while minimizing the impact on the environment. 
+## 
