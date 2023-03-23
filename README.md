@@ -4,6 +4,7 @@ Greenhouse gases issue has  plagued to our planet to warm the melt ice caps extr
 
 ## Use
 
+
 ## Objective 
 * Explore total GHG emissions from 1990 to 2019 by country.
 * Expore the countries GDP per capita  incomparison to their total emissions to see the correlation.
@@ -12,3 +13,19 @@ Greenhouse gases issue has  plagued to our planet to warm the melt ice caps extr
 * Create a model that will  attempt to predict how much of certain agricultural products can be produced to have lessen the GHG emission.
 * Use appropirate, clear visualzation to tell the data strory. 
 * Use both Python  and SQL to do data cleaning and mart creation.
+
+## Problem Statement
+Global emission of  greenhouse gases  has significantly increase in since the latter part of the 1900s.Measured data show that global temperatures, as well as greenhouse gas (nitrous oxide – N2O; carbondioxide – CO2; methane – CH4) emissions are rising. 
+
+Since the 1970s Carbon dioxide emissions have increased by remarkably due to fossil fuels combusion and the rise of industrialization in many countries. Many countries invest heavily in industrialization as a way to increase the GDP fo country and also to Secure a bright future for generations to comes. And also where most of the emergery economies where the producer of the cheaper product always wins, alternative fuel source will push them out of the market as the inital cost is high. 
+
+Agriculture contributes about  20-25% of total greenhouse gas emissions. This is so because most emissions come from the methane produced by livestock  mainly rumnants ( cows, goats and sheeps) husbandry. More indutrialzed farm will produce more greenhouse gases  as will have equipments producing carbon dioxide  nitrogen fertilzer, etc. There are also off-farm emissionas like transportation, food processing distributing etc. 
+
+(Addressing this GHG issue will  requires a comprehensive approach that may  includes changing the way we loincreasing access to affordable and sustainable transportation options, promoting public transportation infrastructure, and encouraging the use of low-emission vehicles. This can be achieved through initiatives such as expanding public transportation networks, incentivizing the purchase of low-emission vehicles through tax credits and other programs, and promoting alternative transportation options such as biking and walking.
+
+By reducing GHG emissions in the transportation sector, we can mitigate the impacts of climate change and promote a more sustainable future for all.)
+
+##
+
+
+
