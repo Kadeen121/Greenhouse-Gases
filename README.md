@@ -28,7 +28,12 @@ By reducing GHG emissions in the transportation sector, we can mitigate the impa
 ## Data 
  ### The following are the source where the data was retrived (click the link)
 
-[Greenhouse Gases Emission by Sector](https://ourworldindata.org/grapher/ghg-emissions-by-sector).
+[Greenhouse Gases Emissions by Sector](https://ourworldindata.org/grapher/ghg-emissions-by-sector).
 
+[Total Greenhouse Gases Emissions](https://ourworldindata.org/grapher/total-ghg-emissions)
 
+[Greenhouse Gases Emissions per Kilogram of Food](https://ourworldindata.org/grapher/ghg-per-kg-poore)
 
+[GDP Per Capita](https://ourworldindata.org/grapher/gdp-per-capita-worldbank)
+
+[Agriculture: Drivers of Emission](https://www.climatewatchdata.org/sectors/agriculture?emissionType=203&filter=#drivers-of-emissions)
