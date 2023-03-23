@@ -10,7 +10,7 @@ Greenhouse gases issue has  plagued to our planet to warm the melt ice caps extr
 * Expore the countries GDP per capita  incomparison to their total emissions to see the correlation.
 * Explore the sectors that contribute to the production of GHG by countries. 
 * Explore the effects of Agriculture of certain products has on GHG.
-* Create a model that will  attempt to predict how much of certain agricultural products can be produced to have lessen the GHG emission.
+* Create a model that will  attempt to predict how much of certain agricultural products can be produced to have lessen the GHG ruminantsemission.
 * Use appropirate, clear visualzation to tell the data strory. 
 * Use both Python  and SQL to do data cleaning and mart creation.
 
@@ -25,7 +25,10 @@ Agriculture contributes about  20-25% of total greenhouse gas emissions. This is
 
 By reducing GHG emissions in the transportation sector, we can mitigate the impacts of climate change and promote a more sustainable future for all.)
 
-##
+## Data 
+ ### The following are the source where the data was retrived (click the link)
+
+[Greenhouse Gases Emission by Sector](https://ourworldindata.org/grapher/ghg-emissions-by-sector).
 
 
 
