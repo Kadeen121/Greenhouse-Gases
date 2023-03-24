@@ -8,7 +8,7 @@ The greenhouse gases warms the planet causing a myriad of issues, some includes 
 ## Objective 
 > * Explore total GHG emissions from 1990 to 2019 by country.
 > * Explore the sectors that contribute to the production of GHG by countries. 
-> * Explore the effects of Agriculture of certain products has on GHG, particularly cows.![cow](/pics/Cow.jpg)
+> * Explore the effects of Agriculture of certain products has on GHG, particularly cows.![cow](/pics/Cow.png)
 > * Expore the countries GDP per capita  in comparison consumption of meat(Beef) to see the correlation.
 > * Create a model that will  attempt to predict how much of certain agricultural products can be produced to have lessen the GHG ruminants emission.
 > * Use appropirate, clear visualzation to tell the data strory. 
