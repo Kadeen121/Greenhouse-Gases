@@ -7,12 +7,12 @@ Greenhouse gases issue has  plagued to our planet to warm the melt ice caps extr
 
 ## Objective 
 > * Explore total GHG emissions from 1990 to 2019 by country.
-* Expore the countries GDP per capita  incomparison to their total emissions to see the correlation.
-* Explore the sectors that contribute to the production of GHG by countries. 
-* Explore the effects of Agriculture of certain products has on GHG.
-* Create a model that will  attempt to predict how much of certain agricultural products can be produced to have lessen the GHG ruminantsemission.
-* Use appropirate, clear visualzation to tell the data strory. 
-* Use both Python  and SQL to do data cleaning and mart creation.
+> * Expore the countries GDP per capita  incomparison to their total emissions to see the correlation.
+> * Explore the sectors that contribute to the production of GHG by countries. 
+> * Explore the effects of Agriculture of certain products has on GHG.
+> * Create a model that will  attempt to predict how much of certain agricultural products can be produced to have lessen the GHG ruminantsemission.
+> * Use appropirate, clear visualzation to tell the data strory. 
+> * Use both Python  and SQL to do data cleaning and mart creation.
 
 ## Problem Statement
 Global emission of  greenhouse gases  has significantly increase in since the latter part of the 1900s.Measured data show that global temperatures, as well as greenhouse gas (nitrous oxide – N2O; carbondioxide – CO2; methane – CH4) emissions are rising. 
