@@ -6,7 +6,7 @@ Greenhouse gases issue has  plagued to our planet to warm the melt ice caps extr
 
 
 ## Objective 
-* Explore total GHG emissions from 1990 to 2019 by country.
+> * Explore total GHG emissions from 1990 to 2019 by country.
 * Expore the countries GDP per capita  incomparison to their total emissions to see the correlation.
 * Explore the sectors that contribute to the production of GHG by countries. 
 * Explore the effects of Agriculture of certain products has on GHG.
@@ -39,3 +39,5 @@ By reducing GHG emissions in the transportation sector, we can mitigate the impa
 [Agriculture: Drivers of Emission](https://www.climatewatchdata.org/sectors/agriculture?emissionType=203&filter=#drivers-of-emissions)
 
 ## Scope 
+At first there will be an overall greenhouse gases emissions by country  over a period of 1990 to 2019.  Then an  assessment the emissions produced by sectors, which  deeper  assesment will be done on agriculture emission. Given that the largest emmission emission comes from cows. The final piece will be a comparison of GDP  per captia to cow product consumption. The final piece will be a model predicting emissions from cow product(beef and dairy).
+
