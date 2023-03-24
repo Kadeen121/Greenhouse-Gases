@@ -1,6 +1,6 @@
 # Greenhouse-Gases  ![GHG](/pics/GHG.png)
 ## Introduction
-Greenhouse gases issue has  plagued to our planet to warm the melt ice caps extreme weather events, such as heat waves, droughts, blizzards and rainstorms.  This has a devastating effect on the planet espcially the on the nations that are developing and underdeveloped as they do not have the resource to combat the effects from climate change which is caused by greenhouse gases. In this project explore greenhouse gas emmissions  from 1990 to 2018, what industries  are producing the most greenhouse gases and attempt to build a model which will help give us clues in lowering GHG in the future.  
+The greenhouse gases warms the planet causing a myriad of issues, some includes the  melting of  ice caps and extreme weather events, such as heat waves, droughts, blizzards and rainstorms.  This has a devastating effect on the planet, especially the on the nations that are developing and underdeveloped as they do not have the resource to combat the effects from climate change which is caused by greenhouse gases. In this project explore greenhouse gas emissions  from 1990 to 2019, what industries  are producing the most greenhouse gases and attempt to build a model which will help give us clues in lowering GHG in the future.  
 
 ## Use
 
@@ -8,8 +8,8 @@ Greenhouse gases issue has  plagued to our planet to warm the melt ice caps extr
 ## Objective 
 > * Explore total GHG emissions from 1990 to 2019 by country.
 > * Explore the sectors that contribute to the production of GHG by countries. 
-> * Explore the effects of Agriculture of certain products has on GHG.
-> * Expore the countries GDP per capita  incomparison to their total emissions to see the correlation.
+> * Explore the effects of Agriculture of certain products has on GHG, where a deep look will be done on emissions from cows.![cow](/pics/Cow.jpg)
+> * Expore the countries GDP per capita  in comparison consumption of meat(Beef) to see the correlation.
 > * Create a model that will  attempt to predict how much of certain agricultural products can be produced to have lessen the GHG ruminants emission.
 > * Use appropirate, clear visualzation to tell the data strory. 
 > * Use both Python  and SQL to do data cleaning and mart creation.
