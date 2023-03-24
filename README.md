@@ -2,31 +2,26 @@
 ## Introduction
 The greenhouse gases warms the planet causing a myriad of issues, some includes the  melting of  ice caps and extreme weather events, such as heat waves, droughts, blizzards and rainstorms.  This has a devastating effect on the planet, especially the on the nations that are developing and underdeveloped as they do not have the resource to combat the effects from climate change which is caused by greenhouse gases. In this project explore greenhouse gas emissions  from 1990 to 2019, what industries  are producing the most greenhouse gases and attempt to build a model which will help give us clues in lowering GHG in the future.  
 
-## Use
-
-
 ## Objective 
 > * Explore total GHG emissions from 1990 to 2019 by country.
 > * Explore the sectors that contribute to the production of GHG by countries. 
-> * Explore the effects of Agriculture of certain products has on GHG, particularly cows.![cow](/pics/Cow.png)
-> * Expore the countries GDP per capita  in comparison consumption of meat(Beef) to see the correlation.
-> * Create a model that will  attempt to predict how much of certain agricultural products can be produced to have lessen the GHG ruminants emission.
-> * Use appropirate, clear visualzation to tell the data strory. 
-> * Use both Python  and SQL to do data cleaning and mart creation.
+> * Explore the effects of Agriculture of certain products has on GHG, particularly cows.
+> * Explore the countries GDP per capita  in comparison consumption of meat(Beef) to see the correlation.
+> * Create a model that will  attempt to predict how much of certain agricultural products can be produced to have lessen the GHG emission.
+> * Use appropriate, clear visualizations to tell the data story. 
+> * Use both Python and SQL to do data cleaning and mart creation.
 
 ## Problem Statement
-Global emission of  greenhouse gases  has significantly increase in since the latter part of the 1900s.Measured data show that global temperatures, as well as greenhouse gas (nitrous oxide – N2O; carbondioxide – CO2; methane – CH4) emissions are rising. 
+Global emission of  greenhouse gases  has significantly increase in since the latter part of the 1900s.Measured data show that global temperatures, as well as greenhouse gas (nitrous oxide – N2O; carbon dioxide – CO2; methane – CH4) emissions are rising. 
 
-Since the 1970s Carbon dioxide emissions have increased by remarkably due to fossil fuels combusion and the rise of industrialization in many countries. Many countries invest heavily in industrialization as a way to increase the GDP fo country and also to Secure a bright future for generations to comes. And also where most of the emergery economies where the producer of the cheaper product always wins, alternative fuel source will push them out of the market as the inital cost is high. 
+Since the 1970s Carbon dioxide emissions have increased by remarkably due to fossil fuels combustion and the rise of industrialization in many countries. Many countries invest heavily in industrialization as a way to increase the GDP for their country and also to secure a bright future for generations to come. In a world  where the producer of the cheaper product always wins, alternative fuel source will push certain emerging economies(developing countries) out of the market, as the initial cost is high. 
 
-Agriculture contributes about  20-25% of total greenhouse gas emissions. This is so because most emissions come from the methane produced by livestock  mainly rumnants ( cows, goats and sheeps) husbandry. More indutrialzed farm will produce more greenhouse gases  as will have equipments producing carbon dioxide  nitrogen fertilzer, etc. There are also off-farm emissionas like transportation, food processing distributing etc. 
+Agriculture contributes about  20-25% of total greenhouse gas emissions. This is so because most emissions come from the methane produced by livestock,  mainly ruminants ( cows, goats and sheep) husbandry. More industrialized farm will produce more greenhouse gases, as they  have equipments producing carbon dioxide,  nitrogen fertilizer, etc. There are also off-farm emissions like transportation, food processing distributing, etc. Individual consumption increases even more when their wages ( the economy gets better - GDP) increase especially meat consumption. 
 
-(Addressing this GHG issue will  requires a comprehensive approach that may  includes changing the way we loincreasing access to affordable and sustainable transportation options, promoting public transportation infrastructure, and encouraging the use of low-emission vehicles. This can be achieved through initiatives such as expanding public transportation networks, incentivizing the purchase of low-emission vehicles through tax credits and other programs, and promoting alternative transportation options such as biking and walking.
-
-By reducing GHG emissions in the transportation sector, we can mitigate the impacts of climate change and promote a more sustainable future for all.)
+Addressing this GHG, more specifically from Agriculture, issue will  requires a comprehensive approach that may  includes changing the way we eat and also the way we farm. This may be a necessary step to decrease our individual emissions  in efforts to  mitigate the impacts of climate change and promote a more sustainable future for all.
 
 ## Data 
- ### The following are the source where the data was retrived (click the link)
+ ### The following are the source where the data was retrieved (click the link)
 
 [Greenhouse Gases Emissions by Sector](https://ourworldindata.org/grapher/ghg-emissions-by-sector).
 
@@ -38,6 +33,9 @@ By reducing GHG emissions in the transportation sector, we can mitigate the impa
 
 [Agriculture: Drivers of Emission](https://www.climatewatchdata.org/sectors/agriculture?emissionType=203&filter=#drivers-of-emissions)
 
+## Use Case 
+ This research may be used by any government agencies to want to asses their country's or region's overall emissions levels . Also a food processing plants looking to become more "green". Also with the model it may be used by an individual  looking to lower their GHG footprint.
+
 ## Scope 
-At first there will be an overall greenhouse gases emissions by country  over a period of 1990 to 2019.  Then an  assessment the emissions produced by sectors, which  deeper  assesment will be done on agriculture emission. Given that the largest emmission emission comes from cows. The final piece will be a comparison of GDP  per captia to cow product consumption. The final piece will be a model predicting emissions from cow product(beef and dairy).
+At first there will be an overall look at  GHG emissions by country, over a period of 1990 to 2019.  Then, an assessment of the emissions produced by sectors, where a deeper assessment will be done on agricultural emission. Given that the largest emissions emission comes from cows, there will be a comparison of GDP  per capita to cow product consumption. The final piece will be a model predicting emissions from cow product(beef and dairy).
 
