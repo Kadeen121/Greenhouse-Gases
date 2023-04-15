@@ -56,6 +56,8 @@ This was quite fun, as I played with pandas to clean and build this PerCap table
 
 Here is how I did it!
 
+[![Pandas Logs](/pics/pandas.png)](https://github.com/Kadeen121/Greenhouse-Gases/blob/main/MeatConsumptionDimCreation.ipynb)
+
 ### Visual Studios
 I made a package 
 
