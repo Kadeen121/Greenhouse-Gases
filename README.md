@@ -39,3 +39,30 @@ Addressing this GHG, more specifically from Agriculture, issue will  requires a 
 ## Scope 
 At first there will be an overall look at  GHG emissions by country, over a period of 1990 to 2019.  Then, an assessment of the emissions produced by sectors, where a deeper assessment will be done on agricultural emission. Given that the largest emissions emission comes from cows, there will be a comparison of GDP  per capita to cow product consumption. The final piece will be a model predicting emissions from cow product(beef and dairy).
 
+## The First Draft (What I have been up to!)
+### Data Cleaning and Exploration. 
+The first to step to any successful data project to clean data. The data was relatively clean, however, there was a lot of nulls and different grains. This was a big NO NO!!
+So in the draft I will demonstrate how I cleaned the data use Pandas, SSMS and Visual Studios. The aim was show that no matter what tool you use you can do successful Extract Transform and Load one you pay keen attention and use Kimball Rules.  
+
+### SSMS
+I use SSMS to test most of the codes that i used in the build the table and load the data. It was quite interesting because  I had to use stacked C.T.E in make my Per Capita staging Table. 
+
+Here is how I did it! 
+
+[![SSMS Logo](/pics/ssms.jpg)](https://github.com/Kadeen121/Greenhouse-Gases/tree/main/SSMS)
+
+### PANDAS
+This was quite fun, as I played with pandas to clean and build this PerCap table 
+
+Here is how I did it!
+
+[![Pandas Logs](/pics/pandas.png)](https://github.com/Kadeen121/Greenhouse-Gases/blob/main/MeatConsumptionDimCreation.ipynb)
+
+### Visual Studios
+I made a package 
+
+Here is how I did it!
+
+[![Visual Studio Logs](/pics/visualstudio.png)](https://github.com/Kadeen121/Greenhouse-Gases/tree/main/GHGVisualStudios)
+
+
