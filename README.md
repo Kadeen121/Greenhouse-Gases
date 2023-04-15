@@ -49,7 +49,7 @@ I use SSMS to test most of the codes that i used in the build the table and load
 
 Here is how I did it! 
 
-![SSMS Logo](/pics/ssms.jpg)
+![SSMS Logo](/pics/ssms.jpg)(https://github.com/Kadeen121/Greenhouse-Gases/tree/main/SSMS)
 
 ### PANDAS
 This was quite fun, as I played with pandas to clean and build this PerCap table 
