@@ -59,13 +59,10 @@ Here is how I did it!
 [![Pandas Logs](/pics/pandas.png)](https://github.com/Kadeen121/Greenhouse-Gases/blob/main/MeatConsumptionDimCreation.ipynb)
 
 ### Visual Studios
-I made a SSIS package  which was done by the SQL code above. The package video will be uploaded in the final draft
+I made a SSIS package  which was done by the SQL code above
 
 Here is how I did it!
 
 [![Visual Studio Logs](/pics/visualstudio.png)](https://github.com/Kadeen121/Greenhouse-Gases/tree/main/GHGVisualStudios)
 
-
-
-
-[def]: /pics/pandas.png
+[# FINAL READ ME ](https://github.com/Kadeen121/Greenhouse-Gases/blob/main/READMEFINAL.md)
